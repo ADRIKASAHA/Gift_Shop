@@ -4,14 +4,14 @@ import About from "../About/About";
 import Footer from "../Footer/Footer";
 import Contact from "../Contact/Contact";
 //import giftCards from "../giftCards/giftcard/Giftcard";
-import Giftcards from "../giftCards/Giftcards";
+//import Giftcards from "../giftCards/Giftcards";
 
 const Home = () => {
   return (
     <div>
       <Banner />
       <Products />
-      <Giftcards />
+     
       <About />
       <Contact />
       <Footer />
